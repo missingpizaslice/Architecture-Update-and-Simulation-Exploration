@@ -4,10 +4,10 @@
 
 ### Examples of supported inputs and expected behavior
 
-add [node-name]
-remove [node-name]
-connect [node1] [node2]
-disconnect [node1] [node2]
+- add [node-name] (add a new node)
+- remove [node-name] (remove an existing node)
+- connect [node1] [node2] (connect 2 existing nodes)
+- disconnect [node1] [node2] (disconnect 2 existing nodes)
 
 ### Key design decisions and assumptions
 
