@@ -1,6 +1,30 @@
 ### How to run the application locally
 
+1. install dependencies
 
+```bash
+npm i
+```
+
+2. run development server
+
+```bash
+npm run dev
+```
+
+or
+
+2. build
+
+```bash
+npm run build
+```
+
+3. run
+
+```bash
+npm run preview
+```
 
 ### Examples of supported inputs and expected behavior
 
